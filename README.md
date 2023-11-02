@@ -35,3 +35,8 @@ The logical flow of this information architecture allows employers, recruiters, 
 The visual design of the HTML code is intentionally minimalistic and straightforward, focusing on simplicity and ease of readability. The use of a one-column layout and consistent "Trebuchet MS" font throughout the document enhances overall visual coherence. Inclusion of headings at various hierarchical levels helps in better content organization. Additionally, the use of images, such as icons and logos for skills, adds visual appeal and enhances the overall presentation of skills and experience. The absence of excessive styling elements maintains a clean and professional look, ensuring that the content remains the primary focus for the viewer. This design, conceived in a more minimalist manner, incorporates a softer color palette to visually be less intrusive and not distract from the content. Two primary colors include a muted gray-blue (used to visually separate the "About Me" panel from the detailed "Skills/Experience" section) and yellow (used to emphasize CV section titles, alternating based on the nearest color).
 
 
+### things to comment:
+- Regarding the typography, I have not been able to match it with the figma, I have chosen the most similar one possible.
+- An attempt has been made to faithfully reproduce the code format in terms of style in the figma to the code itself.
+- an attempt has been made to make it responsive
+
